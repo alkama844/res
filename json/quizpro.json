@@ -1,0 +1,247 @@
+[
+  {
+    "question": "বাংলাদেশের স্বাধীনতা দিবস কবে পালন করা হয়?",
+    "options": ["২৬ মার্চ", "১৬ ডিসেম্বর", "২১ ফেব্রুয়ারি", "১৭ মার্চ"],
+    "answer": "২৬ মার্চ"
+  },
+  {
+    "question": "Who is the current Prime Minister of Bangladesh?",
+    "options": ["Sheikh Hasina", "Khaleda Zia", "Ershad", "Hamid"],
+    "answer": "Sheikh Hasina"
+  },
+  {
+    "question": "পানির রাসায়নিক সংকেত কী?",
+    "options": ["H2", "O2", "H2O", "CO2"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which river is the longest in Bangladesh?",
+    "options": ["Jamuna", "Padma", "Meghna", "Brahmaputra"],
+    "answer": "Padma"
+  },
+  {
+    "question": "মানব দেহে সবচেয়ে বড় অঙ্গ কোনটি?",
+    "options": ["যকৃত", "চামড়া", "হৃদপিণ্ড", "ফুসফুস"],
+    "answer": "চামড়া"
+  },
+  {
+    "question": "What is the national animal of Bangladesh?",
+    "options": ["Tiger", "Elephant", "Cow", "Leopard"],
+    "answer": "Tiger"
+  },
+  {
+    "question": "বাংলাদেশে সবচেয়ে বড় জেলা কোনটি?",
+    "options": ["রংপুর", "চট্টগ্রাম", "সিলেট", "ঢাকা"],
+    "answer": "চট্টগ্রাম"
+  },
+  {
+    "question": "How many planets are there in the solar system?",
+    "options": ["8", "9", "7", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "সর্বপ্রথম কোন দেশ বাংলাদেশকে স্বীকৃতি দেয়?",
+    "options": ["ভারত", "নেপাল", "ভুটান", "রাশিয়া"],
+    "answer": "ভুটান"
+  },
+  {
+    "question": "Electric current er unit ki?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ampere"
+  },
+  {
+    "question": "বাংলাদেশে জাতীয় সংসদের আসন সংখ্যা কত?",
+    "options": ["৩০০", "২৭৫", "৩৫০", "৩১৫"],
+    "answer": "৩০০"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "বাংলাদেশের প্রথম মহিলা প্রধানমন্ত্রী কে?",
+    "options": ["শেখ হাসিনা", "খালেদা জিয়া", "ফজিলাতুন্নেছা", "রওশন এরশাদ"],
+    "answer": "খালেদা জিয়া"
+  },
+  {
+    "question": "Water boils at what temperature in Celsius?",
+    "options": ["90°C", "100°C", "120°C", "80°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "স্মরণিকা কিসের উদাহরণ?",
+    "options": ["পত্রিকা", "বই", "দিবস", "সংগীত"],
+    "answer": "পত্রিকা"
+  },
+  {
+    "question": "Bangladesh shares the longest border with which country?",
+    "options": ["India", "Myanmar", "Nepal", "China"],
+    "answer": "India"
+  },
+  {
+    "question": "সূর্যের সবচেয়ে বাইরের স্তরের নাম কী?",
+    "options": ["Corona", "Photosphere", "Core", "Chromosphere"],
+    "answer": "Corona"
+  },
+  {
+    "question": "বাংলাদেশের জাতীয় সংগীত কে লিখেছেন?",
+    "options": ["নজরুল ইসলাম", "রবীন্দ্রনাথ ঠাকুর", "লালন", "সুকান্ত"],
+    "answer": "রবীন্দ্রনাথ ঠাকুর"
+  },
+  {
+    "question": "Human body te total kotogulo bone ache?",
+    "options": ["206", "210", "201", "208"],
+    "answer": "206"
+  },
+  {
+    "question": "বাংলাদেশের প্রধান ধর্ম কী?",
+    "options": ["হিন্দু", "বৌদ্ধ", "খ্রিস্টান", "ইসলাম"],
+    "answer": "ইসলাম"
+  },
+  {
+    "question": "Photosynthesis er maddhome ki toiri hoy?",
+    "options": ["Carbon", "Water", "Oxygen", "Salt"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "বাংলাদেশ কবে জাতিসংঘের সদস্য হয়?",
+    "options": ["1971", "1974", "1972", "1973"],
+    "answer": "1974"
+  },
+  {
+    "question": "Newton's third law er concept holo?",
+    "options": ["Force = Mass × Acceleration", "For every action, equal and opposite reaction", "Inertia", "Energy conservation"],
+    "answer": "For every action, equal and opposite reaction"
+  },
+  {
+    "question": "বাংলাদেশের সর্বোচ্চ পর্বত কোনটি?",
+    "options": ["চিম্বুক", "তাজিংডং", "কেওক্রাডং", "লিমিতং"],
+    "answer": "তাজিংডং"
+  },
+  {
+    "question": "Dhaka city ke ki bola hoy?",
+    "options": ["City of Lights", "City of Mosques", "Cultural Capital", "City of Joy"],
+    "answer": "City of Mosques"
+  },
+  {
+    "question": "কোনটি একটি খনিজ পদার্থ?",
+    "options": ["লবণ", "পানি", "চিনি", "তেল"],
+    "answer": "লবণ"
+  },
+  {
+    "question": "বাংলাদেশের জাতীয় পতাকার রঙ কী?",
+    "options": ["সবুজ আর লাল", "সাদা আর লাল", "সবুজ আর হলুদ", "লাল আর কালো"],
+    "answer": "সবুজ আর লাল"
+  },
+  {
+    "question": "Which organ pumps blood in the human body?",
+    "options": ["Lungs", "Kidney", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "question": "শীতলক্ষ্যা নদী কোথায় অবস্থিত?",
+    "options": ["খুলনা", "নারায়ণগঞ্জ", "কুমিল্লা", "রাজশাহী"],
+    "answer": "নারায়ণগঞ্জ"
+  },
+  {
+    "question": "Sound er speed air e koto?",
+    "options": ["343 m/s", "300 m/s", "150 m/s", "250 m/s"],
+    "answer": "343 m/s"
+  },
+  {
+    "question": "বাংলাদেশ কোন সালে স্বাধীনতা লাভ করে?",
+    "options": ["১৯৭১", "১৯৭২", "১৯৭৩", "১৯৭৪"],
+    "answer": "১৯৭১"
+  },
+  {
+    "question": "Oxygen gas kon gas group e pore?",
+    "options": ["Alkali metal", "Halogen", "Noble gas", "Non-metal"],
+    "answer": "Non-metal"
+  },
+  {
+    "question": "বাংলাদেশের জাতীয় স্মৃতিসৌধ কোথায়?",
+    "options": ["মোহাম্মদপুর", "মিরপুর", "সাভার", "গাজীপুর"],
+    "answer": "সাভার"
+  },
+  {
+    "question": "Which vitamin is produced by sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "চন্দ্রগৃহণের সময় কোনটি ঘটে?",
+    "options": ["চাঁদ সূর্যের সামনে", "পৃথিবী চাঁদের সামনে", "চাঁদ পৃথিবীর ছায়ায়", "সূর্য পৃথিবীর ছায়ায়"],
+    "answer": "চাঁদ পৃথিবীর ছায়ায়"
+  },
+  {
+    "question": "What currency is used in Bangladesh?",
+    "options": ["Taka", "Rupee", "Dollar", "Riyal"],
+    "answer": "Taka"
+  },
+  {
+    "question": "DNA full form ki?",
+    "options": ["Dynamic Network Array", "Deoxyribonucleic Acid", "Double Nitrogen Atom", "Digital Network Application"],
+    "answer": "Deoxyribonucleic Acid"
+  },
+  {
+    "question": "বাংলাদেশের কোন জেলা চা উৎপাদনের জন্য বিখ্যাত?",
+    "options": ["রাজশাহী", "সিলেট", "বরিশাল", "চট্টগ্রাম"],
+    "answer": "সিলেট"
+  },
+  {
+    "question": "Electric bulb আবিষ্কার করেন কে?",
+    "options": ["Albert Einstein", "Isaac Newton", "Thomas Edison", "James Watt"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "বাংলাদেশের জাতীয় ক্রিকেট দলকে কী বলা হয়?",
+    "options": ["Tigers", "Lions", "Bulls", "Eagles"],
+    "answer": "Tigers"
+  },
+  {
+    "question": "Which part of the plant conducts photosynthesis?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "question": "Who wrote 'Amar Shonar Bangla'?",
+    "options": ["Nazrul", "Lalon", "Rabindranath Tagore", "Jibanananda Das"],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "মানবদেহে রক্তের রং লাল কেন?",
+    "options": ["Hemoglobin", "Chlorophyll", "Iron", "Oxygen"],
+    "answer": "Hemoglobin"
+  },
+  {
+    "question": "বাংলাদেশের জাতীয় খেলা কী?",
+    "options": ["ক্রিকেট", "ফুটবল", "ভলিবল", "কাবাডি"],
+    "answer": "কাবাডি"
+  },
+  {
+    "question": "What is boiling point of water at sea level?",
+    "options": ["90°C", "95°C", "100°C", "110°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "সুন্দরবনের প্রধান গাছ কী?",
+    "options": ["সেগুন", "গর্জন", "গেওয়া", "গরান"],
+    "answer": "গরান"
+  },
+  {
+    "question": "Which body part filters blood?",
+    "options": ["Liver", "Heart", "Kidney", "Lung"],
+    "answer": "Kidney"
+  },
+  {
+    "question": "বাংলাদেশের জনসংখ্যা কত কোটির বেশি?",
+    "options": ["১০", "১২", "১৬", "১৮"],
+    "answer": "১৬"
+  },
+  {
+    "question": "Newton কিসের জন্য বিখ্যাত?",
+    "options": ["Electricity", "Magnetism", "Law of Motion", "Evolution"],
+    "answer": "Law of Motion"
+  }
+    ]
