@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "stellar-cipher-463208-d7",
+  "private_key_id": "a37e08cd23a2b856f0052aa489249cc8a274d525",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCozebD5KXFL3EP\nJWXvK9eOLVtd1P5fUAC7XCp/myhI8qs6OW1WvRQWkXJiN2lipnv0racSCZdwhbUn\ngdBYcrdCuXk0GAeh7koHO2RdqKyOk5I16AgMIJzHojrWsjh+7FWMLOVqmDx0j5Vt\nGASZbzUQrMMgOv9/Sc8djSwe0SzdAUjVsL0aVdG4fjPAJuTCFh4B5xbgXidYSlWH\nyH+mDizkfEO3bjA4RFB+KUMRSY/206KMFyTrisVoNTF0hY9l31TTEb8FWRjbrVBE\neCWDQTrin6yFsulsX6mWo3EWeSGYJrF2bts8Ac3p6ksPhVdxu9GKh1u7p6EoPNRE\nb54l6NHjAgMBAAECggEAG1jEEP9FRcUnn/MIk68lbCX388286exYOgI2llaot5dX\nWwbmVOjWd3OCYDFRlDGcH5RUXnfe/f6DTbkE65dQuMa7FnqVc0vbLVcXWD7/uYIP\nFpxBACn2YYxsKM+q7GZVfkXgYsedSlWKjn0Xcv37pE3At24nadPSHHD8Rqp6MKaw\narBlD/O3omZ0PTaCE0pfn+Z6OfEvWNeY0iLdQTM9w0oW6J0LGUNlPbLq9NM4PR3v\nksh1g8SWoxXeLi7i0EtQyewWTEcxHZw7/yRZ4i1dfK+kxhUTa4IJCt7kfVEe/6Q2\nzrKBAc8qBk3zRDayWwCfBUWzEUDvap8oVcN8/YN7tQKBgQDUi7IQ8eqoaAv/kcL1\n0PjqEE/sZabs3gB/rpdREhxOcydJRgDqA2XMI8/9rMxYkdcj31KPKp/8U5p6BmAD\nKIVtpnavXeJIGF4qExo0nP4exG5yNJeSMoVcEvjQT7WspUwDb00v7GM0AhmY0QOU\nrDc5JkokftrhS3TOKt8mGj6UXwKBgQDLUNnlUqXaBwkKW++P+l3BqrUEdfrZ7tnG\ngOwLMTDMPtptyAzMJQxE65hNySC/76AgJ61xQ0aNuZDWF2DgDWGoMj8yk1Caziat\nxumf5yTvEVFB5QI+hG6R01mQLamQqr8Z3c3kOT5byj8hjHtLDBP0vRkj5JH/Ka4w\nYMFD6V3Q/QKBgC0Nv50f6qHwDDsMZss8lMbo1khB8/RZyrlGBQVGVYG7nyRFFoSE\nW9u966TWMCrGH1iXSiTW4DrYbfJXz5pbyIzJsHbT69dkcvFwQynL7YIQGWlUBJ0U\n4Hf3/Y4Kl3QVRdukiDQUY6LunwZpp9yn9LzEhQrfaP5AxG2/YLXu8jz5AoGAV2Xu\nBNI+UTbs//L9TBsH6pSDM+OzbbNrEhWhYj5HB8WNB9wTBD54w7eyxN1MorVTU/86\nY5HT5mB6jk2Ga0nVTQQsfoUtBR7RKap0CzTFf68mCvlyuYUcMrtzqLK4TWPYujnK\no+ynjbWm5bkJ1vzeJzqScAd1awZzxoARFCxhE9ECgYEA0lOBqg061/DiXbn6TlE7\nVmw0rkynNxu6dLwB2Gi1oFQXQos5RgapIOvM3YetuU1E8fP7UDqf6UDbgqt/bHtp\n8ae7oyRehOsjFyCIEXfg/jFfarLbg9cPP+nR21DSLV7uhmU4mzokVhtyKhcqIJCI\nP577H9wwW/zJLsJakShCjQ0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "goatbotcmd@stellar-cipher-463208-d7.iam.gserviceaccount.com",
+  "client_id": "103051230025198748900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/goatbotcmd%40stellar-cipher-463208-d7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
