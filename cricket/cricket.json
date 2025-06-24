@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Afif Hossain",
+    "aliases": ["afif", "afif hossain"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/afif.jpeg"
+  },
+  {
+    "name": "Towhid Hridoy",
+    "aliases": ["saikot", "towhid", "hridoy", "towhid hridoy", "saikot hridoy"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/saikot.jpeg"
+  },
+  {
+    "name": "Mominul Haque",
+    "aliases": ["mominul", "mominul haque"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/mominul.jpeg"
+  },
+  {
+    "name": "Nasum Ahmed",
+    "aliases": ["nasum", "nasum ahmed"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/nasum.jpeg"
+  },
+  {
+    "name": "Mohammad Saifuddin",
+    "aliases": ["saif", "saifuddin", "mohammad saifuddin"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/saifuddin.jpeg"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "aliases": ["soumya", "soumya sarkar"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/soumya.jpeg"
+  },
+  {
+    "name": "Mehidy Hasan Miraz",
+    "aliases": ["miraz", "mehidy", "mehidy hasan", "mehidy hasan miraz"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/miraz.jpeg"
+  },
+  {
+    "name": "Najmul Hossain Shanto",
+    "aliases": ["shanto", "santo", "najmul", "najmul hossain", "najmul hossain shanto"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/santo.jpeg"
+  },
+  {
+    "name": "Litton Das",
+    "aliases": ["liton", "litton", "litton das"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/liton.jpeg"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "aliases": ["mustafiz", "fizz", "mustafizur", "mustafizur rahman"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/mustafizur.jpeg"
+  },
+  {
+    "name": "Taskin Ahmed",
+    "aliases": ["taskin", "taskin ahmed"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/taskin.jpeg"
+  },
+  {
+    "name": "Mahmudullah Riyad",
+    "aliases": ["riyad", "mahmudullah", "mahmudullah riyad"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/riyad.jpeg"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "aliases": ["musfiq", "mushfiq", "mushfiqur", "mushfiqur rahim"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/musfiq.jpeg"
+  },
+  {
+    "name": "Tamim Iqbal",
+    "aliases": ["tamim", "tamim iqbal"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/tamim.jpeg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "aliases": ["shakib", "sakib", "shakib al hasan", "sakib al hasan"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/sakib.jpeg"
+  },
+  {
+    "name": "MS Dhoni",
+    "aliases": ["dhoni", "ms dhoni", "mahi"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/dhoni.jpeg"
+  },
+  {
+    "name": "Virat Kohli",
+    "aliases": ["virat", "kohli", "virat kohli"],
+    "image": "https://raw.githubusercontent.com/alkama844/res/refs/heads/main/cricket/virat.jpeg"
+  }
+    ]
