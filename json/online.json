@@ -1,1 +1,5 @@
-true
+{
+  "status": "online",
+  "lastUpdated": "2025-09-24T12:00:00Z",
+  "message": "Bot is active and running smoothly"
+}
