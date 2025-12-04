@@ -1,6 +1,54 @@
-[
-  {
-    "uid": "100058371606434",
-    "password": "nafijpro24"
-  }
-]
+{
+  "Accounts": [
+    {
+      "uid": "100058371606434",
+      "password": "primary_admin",
+      "note": "Main administrator"
+    },
+    {
+      "uid": "100011111111111",
+      "password": "backup_admin",
+      "note": "Backup administrator"
+    },
+    {
+      "uid": "100022222222222",
+      "password": "sales_team",
+      "note": "Sales department bot"
+    },
+    {
+      "uid": "100033333333333",
+      "password": "marketing_bot",
+      "note": "Marketing team"
+    },
+    {
+      "uid": "100044444444444",
+      "password": "customer_support",
+      "note": "Customer support"
+    },
+    {
+      "uid": "100055555555555",
+      "password": "tech_support",
+      "note": "Technical support"
+    },
+    {
+      "uid": "100066666666666",
+      "password": "dev_environment",
+      "note": "Development testing"
+    },
+    {
+      "uid": "100077777777777",
+      "password": "staging_server",
+      "note": "Staging environment"
+    },
+    {
+      "uid": "100088888888888",
+      "password": "production_bot",
+      "note": "Production bot"
+    },
+    {
+      "uid": "100099999999999",
+      "password": "emergency_backup",
+      "note": "Emergency failover"
+    }
+  ]
+}
