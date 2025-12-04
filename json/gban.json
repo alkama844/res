@@ -1,26 +1,32 @@
 {
-  "100011111111111": {
-    "reason": "Spamming commands",
-    "date": "2025-12-03T10:00:00.000Z",
-    "toDate": null,
-    "note": "PERMANENT BAN"
+  "users": {
+    "100012345678901": {
+      "reason": "Spamming commands and abusing bot features",
+      "date": "2025-12-04T10:00:00.000Z",
+      "message": "You have been permanently banned from using this bot for command spam. Contact admin if you think this is a mistake.",
+      "bannedBy": "Admin"
+    },
+    "100098765432109": {
+      "reason": "Temporary ban for testing purposes",
+      "date": "2025-12-04T12:00:00.000Z",
+      "expires": "2025-12-11T12:00:00.000Z",
+      "message": "You are temporarily banned for 7 days. You can use the bot again after December 11, 2025.",
+      "bannedBy": "Moderator"
+    }
   },
-  "100022222222222": {
-    "reason": "Abusing bot features",
-    "date": "2025-12-03T12:00:00.000Z",
-    "toDate": "2025-12-10T12:00:00.000Z",
-    "note": "TEMPORARY BAN - Until Dec 10"
-  },
-  "100033333333333": {
-    "reason": "Harassment",
-    "date": "2025-12-03T15:00:00.000Z",
-    "toDate": null,
-    "note": "PERMANENT BAN"
-  },
-  "100044444444444": {
-    "reason": "Testing",
-    "date": "2025-12-03T16:00:00.000Z",
-    "toDate": "2025-12-04T16:00:00.000Z",
-    "note": "TEMPORARY - 24 hours"
+  "groups": {
+    "1234567890123456": {
+      "reason": "Group was using bot for harassment",
+      "date": "2025-12-04T10:30:00.000Z",
+      "message": "This group has been permanently banned from using the bot. All members are restricted from bot access in this group.",
+      "bannedBy": "Admin"
+    },
+    "6543210987654321": {
+      "reason": "Temporary ban - bot abuse in group",
+      "date": "2025-12-04T14:00:00.000Z",
+      "expires": "2025-12-14T14:00:00.000Z",
+      "message": "This group is temporarily banned for 10 days due to bot abuse. Access will be restored on December 14, 2025.",
+      "bannedBy": "Moderator"
+    }
   }
 }
